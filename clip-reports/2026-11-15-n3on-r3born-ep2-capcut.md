@@ -22,7 +22,38 @@
 - End on the reaction, just before the moment fully resolves, so viewers want the full episode
 - Episode 2 footage only, with audio always from the same scene
 
-## Clips to make (in priority order)
+## Main edit: 60-second story cut
+
+**Plan:** one clip, exactly 60 seconds. Open on the hot wax going onto N3on's leg, but don't show the rip. Then tell the episode from start to finish through its biggest moments, and end on the rip itself. The rip is the payoff the hook promised, so viewers stay for the whole 60 seconds.
+
+**Rules for this edit:**
+
+- Each segment's audio must come from the same scene as its footage. No music or sound moved between scenes.
+- Cut hard between segments with no transitions longer than 0.3 seconds, and no dead air.
+- Add a small label at the top of the screen when each round starts (ROUND 1: PILATES, ROUND 2: POLE, ROUND 3: SILKS), and a running score after each calorie reveal.
+- Timestamps in the source are estimates. Search for each segment's line within 1 minute either side.
+
+| Time in clip | Length | Segment | Source (about) | Starts on | Ends on | On-screen text |
+| --- | --- | --- | --- | --- | --- | --- |
+| 0:00–0:04 | 4s | **Hook:** wax goes on his calf | 15:50 | "Oh, I'm so scared" | "oh, that's fucking hot" (cut before the countdown) | HE LOST THE BET |
+| 0:04–0:09 | 5s | The stakes | 0:50 | "if you lose and you eat hot shit, okay," | "if you lose, I'm gonna wax your armpit" | LOSER GETS WAXED |
+| 0:09–0:17 | 8s | Pilates struggle | 3:30 | "you're not even doing shit" | "oh shit, did you just fart?" | ROUND 1: PILATES |
+| 0:17–0:23 | 6s | Round 1 result | 4:20 | "Oh, that's embarrassing, I think it's a malfunction." | "I burn 161." | N3ON 103 · SARAH 161 |
+| 0:23–0:30 | 7s | Can't climb the pole | 7:00 | "oh shit, I think his manlihood might be out the window." | "not stupid, sorry, this great pole" | ROUND 2: POLE |
+| 0:30–0:38 | 8s | Shaking handstand | 8:25 | "Oh oh, oh, why are you shaking" | "I did it" | (none) |
+| 0:38–0:42 | 4s | Round 2 result | 9:25 | "I burn about 100, fuck, I bring 50, exactly 50." | "She crushed you, man" | N3ON IS LOSING |
+| 0:42–0:47 | 5s | Silks breakthrough | 13:10 | "oh shit, I'm doing it." | "oh my God, neon" | ROUND 3: SILKS |
+| 0:47–0:53 | 6s | Caught cheating | 14:30 | "what the fuck are you doing?" | "don't touch me, I'm gonna sue you." | HE TRIED TO CHEAT |
+| 0:53–0:56 | 3s | Final score | 15:40 | "326 calories" | "dumbass" | FINAL SCORE |
+| 0:56–1:00 | 4s | **Payoff:** the rip | 16:10 | "Three, two, one" | His reaction to the rip | (none) |
+
+**If it runs over 60 seconds:** cut the Round 2 result first, then the silks breakthrough. Never cut the hook, the stakes, the cheating or the rip.
+
+**Caption:** N3on lost the bet… and you already know what happened next 😭 Full episode on @hardscope #r3born #n3on
+
+## Extra single-moment clips (in priority order)
+
+If there's time after the main edit, cut these as separate shorts. Never reuse the same footage as the main edit in an identical cut: the campaign rejects posts that repeat the same clip with no variation.
 
 Timestamps are estimates. Search for the "Starts on" line in a window of 1 minute either side.
 
