@@ -1,14 +1,15 @@
 # Clip Lobby workspace
 
-Clip Lobby posts short vertical clips of big streamers reacting to GTA 6 (and other big gaming moments) on TikTok, YouTube Shorts, Instagram and X. OpusClip does the cutting and posting; income comes from paid per-view clipping campaigns (Content Rewards on Whop, Clipping) and, later, platform payouts.
+Clip Lobby posts short vertical clips of big streamers reacting to GTA 6 (and other big gaming moments) on TikTok, YouTube Shorts, Instagram and X. Ethan cuts clips in CapCut, with Claude finding the moments in long videos; income comes from paid per-view clipping campaigns (Content Rewards on Whop, Clipping) and, later, platform payouts.
 
 ## Where things live
 
 | Folder | What's in it |
 | --- | --- |
 | [`plan/`](plan/) | The GTA 6 launch plan and later plans |
-| [`playbooks/`](playbooks/) | Daily routine, OpusClip workflow, campaign rules checklist |
+| [`playbooks/`](playbooks/) | Daily routine, CapCut workflow, finding viral moments, campaign rules checklist |
 | [`tracking/`](tracking/) | Clip log (one row per posted clip) |
+| [`clip-reports/`](clip-reports/) | Viral-moment shortlists for each long video analysed |
 | [`campaigns/`](campaigns/) | One note per campaign joined: rate, cap, rules, payouts |
 | [`brand/`](brand/) | Handles, bios, profile assets |
 
