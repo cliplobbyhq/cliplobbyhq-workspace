@@ -9,6 +9,7 @@ Clip Lobby posts short vertical clips of big streamers reacting to GTA 6 (and ot
 | [`plan/`](plan/) | The GTA 6 launch plan and later plans |
 | [`playbooks/`](playbooks/) | Daily routine, OpusClip workflow, campaign rules checklist |
 | [`tracking/`](tracking/) | Clip log (one row per posted clip) |
+| [`clip-reports/`](clip-reports/) | Viral-moment shortlists for each long video analysed |
 | [`campaigns/`](campaigns/) | One note per campaign joined: rate, cap, rules, payouts |
 | [`brand/`](brand/) | Handles, bios, profile assets |
 
