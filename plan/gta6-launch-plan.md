@@ -6,7 +6,7 @@ The full, sourced version is the Claude Doc: [Clip Lobby: GTA 6 launch plan](htt
 
 | Target | Number |
 | --- | --- |
-| Must hit | Cover the $29 OpusClip Pro cost |
+| Must hit | Stay on CapCut Free, or cover CapCut Pro ($19.99) if needed |
 | Good | 1 million total views across platforms |
 | Stretch | $1,000 in campaign payouts |
 
@@ -14,9 +14,9 @@ The full, sourced version is the Claude Doc: [Clip Lobby: GTA 6 launch plan](htt
 
 | Phase | Dates (Sydney) | Focus |
 | --- | --- | --- |
-| 0. Setup | Sat 14 to Sun 15 Nov | Accounts, OpusClip Free, Whop + Content Rewards, Clipping, warm-up |
+| 0. Setup | Sat 14 to Sun 15 Nov | Accounts, CapCut, Whop + Content Rewards, Clipping, warm-up, practise 2 to 3 edits |
 | 1. Pre-launch | Mon 16 to Wed 18 Nov | 1 to 2 hype clips a day, no leaked gameplay |
-| 2. Launch | Thu 19 to Thu 26 Nov | Upgrade to OpusClip Pro, 3 to 5 clips a day |
+| 2. Launch | Thu 19 to Thu 26 Nov | 3 to 5 clips a day, cut in CapCut |
 | 3. Scale | From 27 Nov | 2 to 3 clips a day, Sunday reviews, decision at end of December |
 
 ## Streamer watchlist

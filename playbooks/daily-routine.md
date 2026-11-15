@@ -1,11 +1,11 @@
-# Daily routine (about 45 minutes)
+# Daily routine (about 45 to 75 minutes)
 
-## Evening (Sydney), about 30 minutes
+## Evening (Sydney), about 45 to 60 minutes
 
 1. Check Content Rewards and Clipping for new GTA, gaming or streamer campaigns (5 min).
 2. Open each watchlist streamer's Twitch/Kick clips page, sorted by most viewed in the last 24 hours (5 min).
-3. Run the best 3 to 5 through OpusClip (see [opusclip-workflow.md](opusclip-workflow.md)), then fix hooks, titles and campaign tags (15 min).
-4. Schedule them for 10am to 2pm the next day, Sydney time (US evening) (5 min).
+3. Cut the best 3 to 5 in CapCut (see [capcut-workflow.md](capcut-workflow.md)), with hooks, captions, titles and campaign tags (30 to 45 min while you're learning, about 15 once it's routine).
+4. Upload and schedule them in each app for 10am to 2pm the next day, Sydney time (US evening) (10 min).
 
 ## Morning, about 10 minutes
 

@@ -4,7 +4,7 @@
 - [ ] No pre-launch or leaked gameplay
 - [ ] Streamer's voice louder than any in-game radio music
 - [ ] Campaign's required hashtags, mentions and tags added
-- [ ] No watermark (use OpusClip Pro)
+- [ ] No watermark (delete the CapCut logo clip at the end of templates)
 - [ ] Campaign allows AI-cut clips (some ban "AI-generated videos")
 - [ ] Posted from the account linked to the campaign (Instagram must be a business account)
 
