@@ -1,6 +1,6 @@
 # Finding viral moments in long videos
 
-How to turn a 2 to 12 hour stream or podcast into a shortlist of 5 to 8 clip-worthy moments, with timestamps, before touching OpusClip.
+How to turn a 2 to 12 hour stream or podcast into a shortlist of 5 to 8 clip-worthy moments, then a brief that CapCut's AI clipping feature uses to cut them.
 
 ## 1. Get the transcript (Ethan, about 2 minutes)
 
@@ -50,9 +50,18 @@ A report saved to `clip-reports/YYYY-MM-DD-<streamer>-<short-title>.md` with:
 
 Plus, for each pick: a caption with hashtags, the best platform for it, risks to check, and a list of moments considered but skipped.
 
+Claude also writes a **CapCut clip brief**, `clip-reports/YYYY-MM-DD-<streamer>-<short-title>-capcut.md`, using [`capcut-clip-brief-template.md`](capcut-clip-brief-template.md). It covers the video's context, what to keep and avoid, output settings and each clip's location, start and end lines.
+
+## 6. Cut in CapCut (Ethan)
+
+1. Download the long video and load it into CapCut.
+2. Give CapCut's AI clipping feature the `-capcut.md` brief (upload the file, or paste its text if it only takes a prompt).
+3. Check each clip against the brief's start and end lines, trim, and add the hook text.
+4. Export at 1080p and post to TikTok, Shorts, Instagram and X. CapCut doesn't post for you, so use each app's own scheduler.
+
 ## Rules
 
 - Quote the transcript word for word. Never invent lines.
-- Glasp timestamps are about 30 seconds apart, so start scrubbing 30 seconds before each timestamp in OpusClip.
+- Glasp timestamps are about 30 seconds apart, so start looking 30 seconds before each timestamp.
 - Clips run 15 to 60 seconds and start right on the hook.
 - GTA 6: no ending, standalone cutscenes or major story reveals.
